@@ -1,11 +1,13 @@
 # RAFFLE COOKIE MADE WITH REACT NATIVE
 
-Raffle Cookie app with React Native.
+- Raffle Cookie app with React Native.
 
-## Homepage
+<br/>
 
-![app e-commerce](https://github.com/Vinicius-A-R/react-ecommerce/blob/main/src/assets/app.gif?raw=true)
+## # App
+<img src="https://github.com/Vinicius-A-R/appFirst/blob/main/src/assets/app.gif?raw=true" width="240px" />
 
+<br/><br/>
 
 ## How to start in Android Studio
 
